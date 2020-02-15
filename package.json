@@ -1,0 +1,14 @@
+{
+  "name": "zone-bug1-should-patch-off",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Louis-Dominique <ldd@lddubeau.com>",
+  "license": "ISC",
+  "dependencies": {
+    "zone.js": "^0.10.2"
+  }
+}
